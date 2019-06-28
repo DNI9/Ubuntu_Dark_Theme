@@ -1,6 +1,6 @@
 # Dark Theme for Ubuntu
 
-This theme includes [Sweet Dark](https://www.gnome-look.org/p/1253385/) theme and [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)
+This theme includes [Sweet Dark](https://www.gnome-look.org/p/1253385/) theme and [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) icons
 
 ### TO Install
 Clone this repo and run 
